@@ -231,7 +231,7 @@ color: var(--dark-color);
   grid-template-columns: repeat(2, 1fr);
   justify-content: center;
   align-items: center;
-  height: 50vh;
+  min-height: 50vh;
 }
 
 #showcase .showcase-content{
